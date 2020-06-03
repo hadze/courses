@@ -1,7 +1,7 @@
 ![alt text](https://github.com/hadze/misc/blob/master/Science-Classroom-icon.png)
 
 # courses
-this repository contains various completed courses and their associated code implementations 
+this repository contains various completed courses and their associated code implementations as well as some links
 
 [Machine Learning (Stanford CS229)](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | [course-site](http://cs229.stanford.edu/syllabus-autumn2018.html)
 
