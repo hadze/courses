@@ -11,5 +11,7 @@ This course provides a broad introduction to machine learning and statistical pa
 ## advanced courses
 [Deep Unsupervised Learning 2019 Berkley](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) | [course-site](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
 
+[From Languages to Information - Stanford](https://web.stanford.edu/class/cs124/)
+
 ## books
 [Free books on Machine Learning](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
