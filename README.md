@@ -15,5 +15,7 @@ This course provides a broad introduction to machine learning and statistical pa
 
 [Natural Language Processing with Deep Learning - Stanford](https://web.stanford.edu/class/cs224n/)
 
+[Deep Learning by Yann LeCun - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+
 ## books
 [Free books on Machine Learning](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
