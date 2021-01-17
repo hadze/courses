@@ -5,7 +5,7 @@ Things learned:
 * What skills are required to analyse Big Data. 
 * About the process of Data Mining, and how it produces results.
 
-Question:
+Questions:
 
 * According to the reading, the output of a data mining exercise largely depends on the skills of the data scientist carrying out the exercise.
 --> False
